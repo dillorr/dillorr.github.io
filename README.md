@@ -1,1 +1,3 @@
-Repo for my github pages site
+Hello! 
+
+Contact me on [LinkedIn](https://www.linkedin.com/in/dillon-orr/)
