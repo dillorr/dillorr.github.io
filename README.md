@@ -1,3 +1,5 @@
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+"We don't know who struck first, us or them. But we do know it was us that scorched the sky. At the time, they were dependent on solar power. It was believed they would be unable to survive without an energy source as abundant as the sun."
+
+― Morpheus (The Matrix, 1999)
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/dillon-orr/)
